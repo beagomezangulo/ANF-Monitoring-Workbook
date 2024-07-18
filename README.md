@@ -16,7 +16,7 @@ ANF Monitoring Working is provided as is and is not supported by NetApp or Micro
 
 ## Getting started 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](http%3A%2F%2Fschema.management.azure.com%2Fschemas%2F2015-01-01%2FdeploymentTemplate.json%23)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbeagomezangulo%2FANF-Monitoring-Workbook%2Fmain%2FANF%2520Monitoring%2520Workbook%2520-%2520ARM%2520template%2520v3.json)
 
 ## Need help?
 Please open an issue here on GitHub and I will try to assist as my schedule permits.
