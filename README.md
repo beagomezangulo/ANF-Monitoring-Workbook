@@ -16,7 +16,20 @@ ANF Monitoring Working is provided as is and is not supported by NetApp or Micro
 
 ## Getting started 
 
+Please use the button below to redirect you to the Azure portal and the deployment of the ARM template.
+
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbeagomezangulo%2FANF-Monitoring-Workbook%2Fmain%2FANF%2520Monitoring%2520Workbook%2520-%2520ARM%2520template%2520v3.json)
+
+Once that is set up, go to the workbook and open it. In order to monitor your Azure NetApp Files resources, you will need to add your subscriptions to the workbook. 
+
+1. Open workbook
+2. Go into Edit mode
+3. On the top options, go into settings.
+<img src="./img/screenshot-settings.png" alt="" height="90" style="margin: 0 0 0 0; " />
+4. Add the subscriptions to resources used in this workbook.
+<img src="./img/screenshot-resources.png" alt="" height="500" style="margin: 0 0 0 0; " />
+5. Save and close
+
 
 ## Need help?
 Please open an issue here on GitHub and I will try to assist as my schedule permits.
